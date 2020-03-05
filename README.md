@@ -1,2 +1,4 @@
-# kandy-distant-toolkit
-Kandy Distant Tookit
+# @kandy-io/kandy-distant-toolkit
+## Kandy Distant Tookit
+
+Enabled session based communication over channels
